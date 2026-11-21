@@ -19,18 +19,6 @@ This project was created to practise front-end web development and demonstrate m
 - **HTML5** – Website structure and content
 - **CSS3** – Styling and layout
 
-## 📂 Project Structure
-
-```text
-Organic-Products-Store/
-├── index.html
-├── style.css
-├── images/
-└── README.md
-```
-
-> Update the file and folder names above if your project uses a different structure.
-
 ## 🚀 How to Run the Project
 
 1. Download or clone this repository.
